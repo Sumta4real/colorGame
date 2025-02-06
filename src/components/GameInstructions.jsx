@@ -8,7 +8,7 @@ function GameInstruction(){
                 This game tests your color recognition skill.
                 You would be required to click on the color box 
                 that best matches the displayed color. You get 10
-                points for every correct attempt and 0 point for every wrong
+                points for every correct attempt and you lose 5 points for every wrong
                 attempt.
             </p> 
             <div className="buttons"> 

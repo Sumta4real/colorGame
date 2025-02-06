@@ -40,7 +40,7 @@ function GamePage(){
     const showAlert = (msg, type) => {
         setGuessResult(msg);
         setAlertType(type);
-        const duration = type === "correct" ? 2000 : 600;
+        const duration = type === "correct" ? 2000 : 1000;
         setTimeout(() => {
       setGuessResult("");
       setAlertType("");
