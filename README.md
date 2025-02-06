@@ -1,8 +1,46 @@
-# React + Vite
+# Color Guess Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple game that tests your colour recognition skills.
+## Table of contents
 
-Currently, two official plugins are available:
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Screenshot
+
+![](colorGame/public/page-preview.png)
+
+### Links
+
+- Solution URL: (https://github.com/Sumta4real/colorGame)
+- Live Site URL: (https://color-game-mu-beige.vercel.app/)
+
+### Built with
+
+- React
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+
+### What I learned
+
+This project reinforces my knowledge of React Components, props, Routes and useEffect
+
+## Author
+
+- Linkedin - [Sumayyah Taiwo](https://www.linkedin.com/in/sumayyah-taiwo/)
+
+
+
+
+
+
+
+
+
+
